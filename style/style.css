@@ -989,6 +989,7 @@
 }
 
 .footer__input__button {
+    cursor: pointer;
     width: 140px;
     height: 40px;
     background-color: #ffffff;
