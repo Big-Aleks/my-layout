@@ -409,7 +409,7 @@
     height: 67%;
     margin: 10px;
     transition: 2s;
-    box-shadow: 0 0 5px 10px;
+    box-shadow: 0 0 10px 5px;
 }
 
 .third_content-img__1:hover {
@@ -419,7 +419,7 @@
     background-size: cover;
     background-position: center center;
     transition: 2s;
-    box-shadow: 0 0 5px 10px;
+    box-shadow: 0 0 10px 5px;
 }
 
 .third_content-img__2 {
@@ -432,7 +432,7 @@
     height: 67%;
     margin: 10px;
     transition: 2s;
-    box-shadow: 0 0 5px 10px;
+    box-shadow: 0 0 10px 5px;
 }
 
 .third_content-img__2:hover {
@@ -442,7 +442,7 @@
     background-size: cover;
     background-position: center center;
     transition: 2s;
-    box-shadow: 0 0 5px 10px;
+    box-shadow: 0 0 10px 5px;
 }
 
 .third_content-img__3 {
@@ -455,7 +455,7 @@
     height: 67%;
     margin: 10px;
     transition: 2s;
-    box-shadow: 0 0 5px 10px;
+    box-shadow: 0 0 10px 5px;
 }
 
 .third_content-img__3:hover {
@@ -465,7 +465,7 @@
     background-size: cover;
     background-position: center center;
     transition: 2s;
-    box-shadow: 0 0 5px 10px;
+    box-shadow: 0 0 10px 5px;
 }
 
 .third_content-img__4 {
@@ -478,7 +478,7 @@
     height: 67%;
     margin: 10px;
     transition: 2s;
-    box-shadow: 0 0 5px 10px;
+    box-shadow: 0 0 10px 5px;
 }
 
 .third_content-img__4:hover {
@@ -488,7 +488,7 @@
     background-size: cover;
     background-position: center center;
     transition: 2s;
-    box-shadow: 0 0 5px 10px;
+    box-shadow: 0 0 10px 5px;
 }
 
 .third_content-text {
@@ -1014,6 +1014,7 @@
     line-height: 24px;
     font-weight: 400;
     color: #ffffff;
+    text-decoration: none;
 }
 
 .fa-phone {
@@ -1035,6 +1036,7 @@
 }
 
 .fa-skype {
+    cursor: pointer ;
     font-size: 16px;
     color: #ffffff;
     margin: 15px;
