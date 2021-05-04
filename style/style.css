@@ -180,13 +180,13 @@
     box-shadow: 0 0 5px 5px;
 }
 
-.box-second__h3 {
+.box-second__h2 {
     width: 100%;
     min-height: 50px;
     text-align: center;
 }
 
-.second__h3 {
+.second__h2 {
     font-size: 30px;
     line-height: 36px;
     font-weight: 400;
@@ -194,7 +194,7 @@
     cursor: pointer;
 }
 
-.second__h3:hover {
+.second__h2:hover {
     cursor: pointer;
     font-size: 30px;
     line-height: 36px;
@@ -522,13 +522,13 @@
     box-shadow: 0 0 5px 5px;
 }
 
-.box-third__h3 {
+.box-third__h2 {
     width: 100%;
     height: 100px;
     text-align: center;
 }
 
-.h3 {
+.h2 {
     font-size: 30px;
     line-height: 36px;
     font-weight: 400;
@@ -747,13 +747,13 @@
     background-color: white;
 }
 
-.box-fifth__h3 {
+.box-fifth__h2 {
     width: 100%;
     height: 100px;
     text-align: center;
 }
 
-.h3 {
+.h2 {
     font-size: 30px;
     line-height: 36px;
     font-weight: 400;
@@ -945,7 +945,9 @@
     height: 40px;
     background-color: #ffffff;
     border-radius: 10.25px;
-    text-indent: calc(3%);
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding:0 10px ;
 
 }
 
@@ -963,7 +965,9 @@
     height: 40px;
     background-color: #ffffff;
     border-radius: 10.25px;
-    text-indent: calc(3%);
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding:0 10px ;
 }
 
 .footer__input__email::placeholder {
@@ -978,7 +982,9 @@
     height: 170px;
     background-color: #ffffff;
     border-radius: 10.25px;
-    text-indent: calc(3%);
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding:0 10px ;
 }
 
 .footer__input__comment::placeholder {
